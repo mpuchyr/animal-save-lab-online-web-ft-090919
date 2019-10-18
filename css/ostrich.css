@@ -12,6 +12,6 @@ html {
 @media only screen and (max-width: 1200px) {
   #ostrich {
     top: 0;
-    bottom: 200px;
+    bottom: 500px;
   }
 }
